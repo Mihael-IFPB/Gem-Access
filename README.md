@@ -78,10 +78,12 @@ O objetivo não é reproduzir essas ferramentas, mas utilizar suas característi
 
 ## Equipe
 
-**GEM Access** — GEM corresponde às iniciais dos integrantes do projeto.
+Guilherme Manoel da Silva
+Everton Lopes
+Mihael Reinaldo
 
 ## Status
 
-**Protótipo estático — Aula 5**
+**Protótipo estático**
 
 As funcionalidades serão implementadas em etapas posteriores.
