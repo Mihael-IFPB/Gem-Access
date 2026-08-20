@@ -78,8 +78,8 @@ O objetivo não é reproduzir essas ferramentas, mas utilizar suas característi
 
 ## Equipe
 
-Guilherme Manoel da Silva
-Everton Lopes
+Guilherme Manoel da Silva;
+Everton Lopes;
 Mihael Reinaldo
 
 ## Status
