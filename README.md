@@ -6,10 +6,6 @@
 
 O **GEM Access** é um protótipo de interface web voltado ao monitoramento e à visualização de conexões VPN em uma rede de computadores.
 
-O nome **GEM** corresponde às iniciais dos integrantes da equipe, enquanto **Access** representa o contexto de acesso e gerenciamento das conexões.
-
-Este repositório corresponde à etapa inicial do projeto, desenvolvida para a disciplina de Redes de Computadores.
-
 ## Objetivo
 
 Criar uma interface centralizada que apresente, de forma organizada e visual, informações relacionadas a conexões VPN, usuários, tráfego, alertas e relatórios.
