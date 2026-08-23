@@ -1,1 +1,19 @@
-
+name: Gem Access Project
+description:
+ O GEM Access é uma aplicação Web que simula uma plataforma de gerenciamento e monitoramento de conexões VPN, que por sua vez podemos evoluir para algo real se acharmos propicio.
+addresses:
+  preview: https://github.com/ifpb/projects/blob/main/preview.png?raw=true
+  homepage: https://ifpb.github.io/projects/
+  repository: https://github.com/ifpb/projects
+  design: https://www.figma.com/design/example # figma, canva, etc.
+category:
+  type: subject  # ou 'subject', 'research', 'extension', 'open source'
+  subject: pw2-csbes-jp
+  period: 2025.1   # necessário para projetos de disciplina
+tags:
+  - javascript
+  - astro.js
+  - typescript
+owners:
+  - 20051370420  # matrícula/ID dos colaboradores
+  - 2680962
