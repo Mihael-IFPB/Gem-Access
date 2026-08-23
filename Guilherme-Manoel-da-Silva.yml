@@ -6,9 +6,9 @@ avatar:
 occupations:
   - id: 20232380026
     type: student
-    course: cstsi-jp  # curso-campus (formato unificado)
+    course: cstrc-jp  # curso-campus (formato unificado)
     isFinished: false  # true se já concluiu, false se ainda está cursando
 addresses:
-  github: https://github.com/Mihael-IFPB
+  github: https://github.com/Gui-IFPB
   linkedin: https://www.linkedin.com/in/guilherme-manoel-b70609425/
   email: guilherme.manoel@academico.ifpb.edu.br
